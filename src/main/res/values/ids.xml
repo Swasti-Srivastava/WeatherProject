@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="date" type="id" />
+    <item name="High" type="id" />
+    <item name="scroll" type="id" />
+    <item name="lo" type="id" />
+</resources>
