@@ -1,2 +1,3 @@
 # WeatherProject
-Weather project made my junior year
+Weather project made on Android Studios
+2023
